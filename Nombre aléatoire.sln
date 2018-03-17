@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nombre aléatoire", "Nombre aléatoire\Nombre aléatoire.vbproj", "{372B8A95-866B-4C2B-97E2-D6AE7D47F834}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Installation nombre aléatoire", "Installation nombre aléatoire\Installation nombre aléatoire.aiproj", "{F1117214-B67C-4F57-B3C2-F297EB12DC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372B8A95-866B-4C2B-97E2-D6AE7D47F834}.Debug|x86.ActiveCfg = Debug|x86
+		{372B8A95-866B-4C2B-97E2-D6AE7D47F834}.Debug|x86.Build.0 = Debug|x86
+		{372B8A95-866B-4C2B-97E2-D6AE7D47F834}.Release|x86.ActiveCfg = Release|x86
+		{372B8A95-866B-4C2B-97E2-D6AE7D47F834}.Release|x86.Build.0 = Release|x86
+		{F1117214-B67C-4F57-B3C2-F297EB12DC38}.Debug|x86.ActiveCfg = DefaultBuild
+		{F1117214-B67C-4F57-B3C2-F297EB12DC38}.Debug|x86.Build.0 = DefaultBuild
+		{F1117214-B67C-4F57-B3C2-F297EB12DC38}.Release|x86.ActiveCfg = DefaultBuild
+		{F1117214-B67C-4F57-B3C2-F297EB12DC38}.Release|x86.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
